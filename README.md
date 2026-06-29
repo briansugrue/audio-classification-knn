@@ -1,4 +1,4 @@
-# Audio Classification KNN
+# audio-classification-knn
 This program uses time domain features to classify WAV files using a K-Nearest Neighbours (KNN) algorithm. 
 
 It extracts mean amplitude, standard deviation, Root Mean Square (RMS) energy and Zero-Crossing Rate (ZCR)
